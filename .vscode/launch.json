@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Microsoft cloud",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "sandbox",
+            "tenant":"94783f29-cc5e-458b-a281-d637fa1655aa",
+            "schemaUpdateMode": "Synchronize"
+            
+        }
+    ]
+}

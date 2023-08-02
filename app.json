@@ -1,0 +1,18 @@
+{
+  "id": "c393f05d-b578-45df-aee1-556c6cd26745",
+  "name": "XE",
+  "publisher": "Dev",
+  "version": "19.5.0.15",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+ 
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0",
+  "target": "Cloud"
+}
